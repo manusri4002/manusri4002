@@ -2,7 +2,7 @@
 
 - 🔭 Studying at the **Tianjin Polytechnic University, China.**
 
-- 👩🏻‍💻 Electrical engineering student building **on side projects and sharing the process.**
+- 👩🏻‍💻 Electrical engineering student building **side projects and sharing the process.**
 
 - 💬Currently learning **about energy markets / time-series modeling.**
 
